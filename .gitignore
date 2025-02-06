@@ -1,0 +1,18 @@
+# Ignore database files
+*.sql~  
+*.db  
+*.sqlite  
+*.sqlite3  
+*.log  
+
+# Ignore environment & credentials
+.env  
+config.ini  
+db_credentials.txt  
+
+# Ignore system & editor files
+.DS_Store  
+Thumbs.db  
+.vscode/  
+.idea/  
+*.swp  
